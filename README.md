@@ -38,6 +38,5 @@ ___
 ##  Author
 
 **Sarthak Bhopale**
-Python Programming – Class Assignment
 
 ---
