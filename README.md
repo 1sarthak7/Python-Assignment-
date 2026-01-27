@@ -27,14 +27,14 @@ The repository includes the following Python files:
 * Practice problem-solving using Python
 * Learn conditional statements and loops
 * Implement functions and classes
-* Get hands-on experience with small real-world examples
+* Get hands on experience with small real-world examples
 
 ---
 
 ##  Requirements
 
 * Python 3.x
-* No external libraries required (uses standard Python only)
+* No external libraries required 
 ___
 
 ##  Author
