@@ -17,8 +17,6 @@ The repository includes the following Python files:
 * `lib_books.py` – Library books management program (basic data handling)
 * `fun_music.py` – Fun program related to music or sound-based logic
 
-> Each file is written independently and can be executed separately.
-
 ---
 
 ##  Objectives of the Assignment
@@ -33,7 +31,7 @@ The repository includes the following Python files:
 
 ##  Requirements
 
-* Python 3.x
+* Python 3
 * No external libraries required 
 ___
 
