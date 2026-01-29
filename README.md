@@ -1,4 +1,4 @@
-# Python-Assignment
+# Python-Basic-Programs
 
 This repository contains multiple **Python programs** created as part of my **Python programming class assignment**. Each file focuses on practicing core Python concepts such as variables, conditionals, loops, functions, and basic object-oriented programming.
 
