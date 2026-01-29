@@ -37,12 +37,8 @@ ___
 
 ##  Author
 
-**Sarthak Bhopale**
-
-
-**SOC - 7**
-
-
+**Sarthak Bhopale**  
+**SOC - 7**  
 **Roll no.13**
 
 ---
